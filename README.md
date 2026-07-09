@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FAQ Chatbot - College Life & Study Tips
 
 A simple FAQ chatbot that answers common college-life and study-related questions using NLTK preprocessing and TF-IDF similarity matching.
@@ -63,3 +64,6 @@ README.md
 
 - If the chatbot cannot find a close enough match, it shows a fallback message.
 - The threshold can be adjusted in the code if you want stricter or looser matching.
+=======
+# CodeAlpha_-Chatbot-for-FAQs-
+>>>>>>> d2c1c1bb84f14ec417522b8e70af2be88bc29183
